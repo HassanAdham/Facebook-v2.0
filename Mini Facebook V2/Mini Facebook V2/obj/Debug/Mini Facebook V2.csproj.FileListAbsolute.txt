@@ -1,0 +1,14 @@
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\bin\Debug\Mini Facebook V2.exe.config
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\bin\Debug\Mini Facebook V2.exe
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\bin\Debug\Mini Facebook V2.pdb
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini Facebook V2.csprojResolveAssemblyReference.cache
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini_Facebook_V2.Login.resources
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini_Facebook_V2.Mainapp.resources
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini_Facebook_V2.Properties.Resources.resources
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini Facebook V2.csproj.GenerateResource.cache
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini Facebook V2.csproj.CoreCompileInputs.cache
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini Facebook V2.csproj.CopyComplete
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini Facebook V2.exe
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini Facebook V2.pdb
+E:\FCIS\Projects\Mini-Facebook-v2.0\Mini Facebook V2\Mini Facebook V2\obj\Debug\Mini_Facebook_V2.Signup.resources
